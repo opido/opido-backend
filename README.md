@@ -5,7 +5,8 @@
 
 [Nest](https://github.com/nestjs/nest) backend with authentication via Strava using OAuth2 to an existing app inspired by (https://www.nerd.vision/post/nestjs-third-party-oauth2-authentication)
 
-## Configutaion
+## Configuration
+
 Use a .env file with 3 variables:
 
 ```bash
